@@ -1,0 +1,12 @@
+{
+  "description": "Personal website of Pol Guarch",
+  "repo": "https://github.com/pol-guarch",
+  "owner": {
+    "username": "pol-guarch",
+    "email": "guarchp@gmail.com"
+  },
+  "record": {
+    "CNAME": "pol-guarch.github.io"
+  },
+  "proxied": true
+}
